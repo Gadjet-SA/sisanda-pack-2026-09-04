@@ -2,12 +2,12 @@
 
 Vertical live-UI shots for `marketing@gadjet.co.za` (feedback #375).
 
-**Viewport:** iPhone 14, 390×844 CSS / 780×1688 physical, portrait only.
-**Drive:** https://drive.google.com/drive/folders/1It8ovpI1oMEp05rcJ8qEkemL6pEYQGe1
-**Brief (private product repo):** https://github.com/Gadjet-SA/gadjetai/blob/cursor/sisanda-content-pack-3422/docs/marketing/packs/2026-09-04-mobile-ramp-up.md
+**Brief (this repo):** [PACK.md](PACK.md)  
+**Viewport:** iPhone 14, 390×844 CSS / 780×1688 physical, portrait only.  
+**Drive:** https://drive.google.com/drive/folders/1It8ovpI1oMEp05rcJ8qEkemL6pEYQGe1  
 **Full-quality PNGs + 13s mp4 (private product repo):** https://github.com/Gadjet-SA/gadjetai/tree/cursor/sisanda-content-pack-3422/docs/marketing/packs/assets/2026-09-04-mobile-ramp-up
 
-This public repo is the shareable index. The PNG/mp4 binaries live in the product repo (private) and should be dropped into the Drive folder.
+This public repo is the shareable index. Drive has preview JPEGs of stills 01–07 (thumbnails only). The PNG/mp4 binaries live in the product repo (private) and should be dropped into the Drive folder if GitHub 404s.
 
 | # | File | Page |
 |---|---|---|
