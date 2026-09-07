@@ -9,6 +9,8 @@ Vertical live-UI shots for `marketing@gadjet.co.za` (feedback #375).
 
 This public repo is the shareable index. Drive has preview JPEGs of stills 01–07 (thumbnails only). The PNG/mp4 binaries live in the product repo (private) and should be dropped into the Drive folder if GitHub 404s.
 
+## Marketing / public pages
+
 | # | File | Page |
 |---|---|---|
 | 1 | `01-landing-hero-mobile.png` | https://gadjet.ai hero |
@@ -20,4 +22,18 @@ This public repo is the shareable index. Drive has preview JPEGs of stills 01–
 | 7 | `07-seller-software-landing-mobile.png` | https://gadjet.ai/takealot-seller-software |
 | 8 | `08-landing-hero-demo-mobile.mp4` | 13s hero → demo |
 
-These are screenshots of already-public marketing and sign-in pages.
+## Signed-in in-app (Demo Store, 7 Sep)
+
+| # | File | What |
+|---|---|---|
+| 9 | `09-inapp-overview-mobile.png` | Overview KPIs |
+| 9b | `09b-inapp-overview-stock-mobile.png` | Stock value split JHB/CPT/DBN vs warehouse |
+| 10 | `10-inapp-chat-welcome-mobile.png` | Empty chat — Just ask + chips |
+| 11 | `11-inapp-repricer-skus-mobile.png` | Repricer Watch + filters |
+| 11b | `11b-inapp-repricer-sku-mobile.png` | SKU rows with TSIN |
+| 12 | `12-inapp-returns-stats-mobile.png` | Returns statistics |
+| 12b | `12b-inapp-returns-list-mobile.png` | Returns list + top reasons |
+| 13 | `13-inapp-inventory-mobile.png` | Inventory health + Scan |
+| 14 | `14-inapp-sales-mobile.png` | Sales statistics |
+
+Suggested App Store / Play five: 1, 10, 9, 11b, 6. Add 13 for the Scan button.
